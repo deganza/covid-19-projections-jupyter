@@ -1,4 +1,4 @@
-# covid-19-projections
+# covid-19-projections with jupyter
 
 Dataintegration with Jupyter-Notebooks of Covid-19 data provided by the John Hopkins Institute.
 Projections made with logistic fitting.
